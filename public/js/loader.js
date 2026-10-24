@@ -1,0 +1,1 @@
+$(window).load(function(){$(".se-pre-con").fadeOut("slow")}),$(window).load(function(){$(".se-pre-con_home").fadeOut("slow")});
